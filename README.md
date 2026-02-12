@@ -44,7 +44,7 @@ This project focuses only on frontend development.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/landminesoft-frontend.git
+git clone https://github.com/bhargavisimhadri15/Landminesoft-frontend.git
 
 cd landminesoft-frontend
 
