@@ -45,15 +45,19 @@ This project focuses only on frontend development.
 
 ```bash
 git clone https://github.com/your-username/landminesoft-frontend.git
+
 cd landminesoft-frontend
+
 2. Install Dependencies
 npm install
+
 3. Start the Project
 npm run dev
+
 4. Open in Browser
 Open:
-
 http://localhost:5173
+
 ✨ Features
 Responsive Design
 
