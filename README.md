@@ -31,7 +31,9 @@ This project focuses only on frontend development.
 
 - React (Vite)
 - JavaScript
+- HTML
 - CSS
+- Responsive
 - React Router
 - AOS Animations
 
